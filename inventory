@@ -1,2 +1,5 @@
+[web_servers]
 ansible-u2.tj.home
+
+[db_servers]
 ansible-f1.tj.home
